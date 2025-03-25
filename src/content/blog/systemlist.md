@@ -1,3 +1,10 @@
+---
+title: "系统列表"
+description: "有需要可以联系微信：omegacoder"
+pubDate: "Jul 15 2024"
+heroImage: "/blog-placeholder-4.jpg"
+---
+
 ## 电子商务与购物平台
 
 * 0364 商城后台管理系统
